@@ -1,4 +1,5 @@
-baseURL = ""
+baseURL = "/"
 languageCode = "en-us"
+languageLang = "en"
 title = "D"
 theme = "ananke"
